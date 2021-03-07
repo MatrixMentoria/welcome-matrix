@@ -1,4 +1,4 @@
-##Com base no curso introdutório do GitHub e Git eis os comandos que creio que sejam fundamentais:
+# Com base no curso introdutório do GitHub e Git eis os comandos que creio que sejam fundamentais:
 
 **Criar repositório local:** git clone [url-repositorio]
 
