@@ -17,3 +17,4 @@
 **Comparação entre ficheiros:** git diff [branch-original] [novo-branch]
 
 **Merge:** git merge [novo-branch], git push origin [branch-original]
+
