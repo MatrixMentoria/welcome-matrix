@@ -1,10 +1,15 @@
-# welcome-matrix
+git help – é usado para pedir ajuda 
 
-Preparado para mais uma edição do Projeto Matrix?!
+git pull – é usado para atualizar os arquivos no branch  do repositório remoto. 
 
-Esse repositório será utilizado durante a fase de nivelamento.
-Aguarde as instruções dos mentores.
+git tag - criando uma tag leve
 
-Lhe desejamos uma passagem produtiva pelo projeto.
+git branch – é o comando usado para criar, listar e excluir branches.
 
-#gomatrix
+git merge – é usado na etapa final para mesclar as branches quando você conclui um processo de desenvolvimento que esta funcionando perfeitamente. 
+
+git commit – comando que define um ponto de verificação em algum processo de desenvolvimento que esteja fazendo permitindo voltar mais tarde se for necessário para alterando mensagens. 
+
+git push – é o comando usado para criar branch localmente, e para enviar e salvar sua confirmações da nova brach para o repositório remoto. 
+
+git checkout – é principalmente usado para alterar de um brach para o outro, porem podemos utiliza-lo para verificar arquivos e commits. 
