@@ -1,6 +1,3 @@
-int f(int n)
-
-{ 
 ---
 ##### `Lista de comandos do Git/Github que percebo serem os principais para utilizar nesta plataforma de versificação de códigos.`
 ---
