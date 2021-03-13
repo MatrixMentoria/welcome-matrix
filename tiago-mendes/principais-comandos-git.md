@@ -1,4 +1,5 @@
-﻿git clone
+```
+git clone
 git init
 git add <name_of_the_file>
 git add .
@@ -9,3 +10,4 @@ git pull
 git fetch
 git remote -v
 git remote add origin <address of the cloud repo for being the origin>
+```
