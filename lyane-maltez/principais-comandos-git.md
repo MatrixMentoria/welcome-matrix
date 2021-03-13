@@ -1,4 +1,4 @@
-# <center>LISTA COM OS PRINCIPAIS COMANDO GIT</center>
+# <center>LISTA COM OS PRINCIPAIS COMANDOS GIT</center>
 
 *	git config – Obter e configurar o repositório ou opções globais. Esse comando configura nome de usuário/e-mail global que ficará associado aos Git commits. 
 *	git clone – Realizar o download de um projeto a partir do URL. Esse comando clona um repositório em um novo diretório.
