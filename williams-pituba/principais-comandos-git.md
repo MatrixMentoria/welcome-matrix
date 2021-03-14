@@ -1,42 +1,27 @@
-Criar novo repositório.
-git init
 
-É um comando para baixar o código-fonte existente de um repositório remoto.
-git clone 
+Criar novo repositório: git init
 
-Novo branch
-git branch <nome-do-branch>
+É um comando para baixar o código-fonte existente de um repositório remoto: git clone 
 
-Listar branch
-git branch ou git branch --list
+Novo branch: git branch <nome-do-branch>
 
-Excluindo branch
-git branch -d <nome-da-branch>
+Listar branch: git branch ou git branch --list
 
-Trocar de branch
-git checkout <nome-da-branch>
+Excluindo branch: git branch -d <nome-da-branch>
 
-Verifica alterações do branch
-git status
+Trocar de branch: git checkout <nome-da-branch>
 
-Adicionar arquivo específico alterado no branch (prepara para commit)
-git add <arquivo>
+Verifica alterações do branch: git status
 
-Adiciona todos os arquivos alterados de uma única vez  (prepara para commit)
-git add .
+Adicionar arquivo específico alterado no branch (prepara para commit): git add <arquivo>
 
-Commitar um arquivo alterações 
-git commit -m "Descrição da alteração"
+Adiciona todos os arquivos alterados de uma única vez  (prepara para commit): git add .
 
-Git log - Exibir histórico
-git log 
+Commitar um arquivo alterações: git commit -m "Descrição da alteração"
 
-Enviar arquivos/diretórios para o repositório remoto.
-git push <remote> <nome-do-branch>
+Git log - Exibir histórico: git log 
 
-Obter atualizações do repositório remoto
-git pull <remote>
+Enviar arquivos/diretórios para o repositório remoto: git push <remote> <nome-do-branch>
 
-Mesclar alterações entres branchs que estão em desenvolvimento.
-git merge <nome-da-branch>
+Obter atualizações do repositório remoto: git pull <remote>
 
