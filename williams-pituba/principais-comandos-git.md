@@ -1,3 +1,4 @@
+
 Criar novo repositório: git init
 
 É um comando para baixar o código-fonte existente de um repositório remoto: git clone 
@@ -23,6 +24,4 @@ Git log - Exibir histórico: git log
 Enviar arquivos/diretórios para o repositório remoto: git push <remote> <nome-do-branch>
 
 Obter atualizações do repositório remoto: git pull <remote>
-
-Mesclar alterações entres branchs que estão em desenvolvimento: git merge <nome-da-branch>
 
