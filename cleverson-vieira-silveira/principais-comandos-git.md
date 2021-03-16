@@ -154,7 +154,13 @@ Lista todos os arquivos ignorados neste projeto
 build/
 temp-\***
 
-Um arquivo de texto chamado `.gitignore` suprime o versionamento
+//copiado do Lorenco Matalonga
+
+git --version  //saber informação da versão git que estou a usar
+
+touch index.html  //Cria novo ficheiro. Neste caso cria ficheiro index.html
+
+Um arquivo de texto chamado .gitignore suprime o versionamento
 acidental de arquivos e diretórios correspondentes aos padrões
 específicados
 
