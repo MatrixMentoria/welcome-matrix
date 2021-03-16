@@ -1,3 +1,20 @@
+//copiado do Lorenco Matalonga
+
+git --version  //saber informação da versão git que estou a usar
+
+touch index.html  //Cria novo ficheiro. Neste caso cria ficheiro index.html
+
+Um arquivo de texto chamado .gitignore suprime o versionamento
+acidental de arquivos e diretórios correspondentes aos padrões
+específicados
+
+// copiado de Sonia Ceris
+
+git remote add origin <”IP”> - Ligação remota a um servidor git tag - Marca notas específicas (comentários) 
+git grep “teste” - Procura a palavra escolhida nos arquivos git archive –format = xpto.rar - Converte num arquivo .rar 
+git bisect good - Valida entre todos os commits, aqueles que estão correctas e marca como “bom” 
+git bisect bad - Valida entre todos os commits, aqueles que não estão correctas e marca como “bad” 
+
 # GITHUB FOLHA DE DICAS DE GIT
 
 ##### FONTE: https://training.github.com/downloads/pt_BR/github-git-cheat-sheet.pdf
@@ -153,14 +170,4 @@ Lista todos os arquivos ignorados neste projeto
 **\*.log
 build/
 temp-\***
-
-//copiado do Lorenco Matalonga
-
-git --version  //saber informação da versão git que estou a usar
-
-touch index.html  //Cria novo ficheiro. Neste caso cria ficheiro index.html
-
-Um arquivo de texto chamado .gitignore suprime o versionamento
-acidental de arquivos e diretórios correspondentes aos padrões
-específicados
 
