@@ -6,3 +6,6 @@ git config -–global core.editor vim » Define o editor de texto padrão para a
 git init » Inicializa um repositório Git
 git status » Vê o estado atual do projeto
 git add arquivo.txt » Adiciona o arquivo arquivo.txt ao projeto
+
+Lista de comandos uteis
+https://gist.github.com/leocomelli/2545add34e4fec21ec16
