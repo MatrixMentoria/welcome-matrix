@@ -1,0 +1,12 @@
+Lista de comando Git.
+
+git init - Para criar um repositorio
+git status - Verificar estado dos arquivos
+git add - Para adicionar arquivos ou diretorio
+git commit - Para comitar
+git rm - Para remover
+git log - Para mostrar um histórico
+git checkout - Para desfazer uma operação
+git push - Mandar os arquivos para um repositorio
+git clone - Para clonar os projetos
+git pull -  Para atualizar 
