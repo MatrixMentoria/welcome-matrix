@@ -6,17 +6,17 @@
 
 `git add` = Adiciona um arquivo ou todos (Utilizando .) para o commit
 
-`git commit` -m = Adiciona descrição do commit
+`git commit -m` = Adiciona descrição do commit
 
 `git push` = Envia o commit para o reposítorio (Adicionar origin name em casos específicos)
 
 `git pull` = Puxa os commits para o reposítorio local (Adicionar origin name em casos específicos)
 
-`git checkout` -b = Cria uma nova branch
+`git checkout -b` = Cria uma nova branch
 
-`git checkout` name = Muda para a branch selecionada (Trocar 'name')
+`git checkout name` = Muda para a branch selecionada (Trocar 'name')
 
-`git merge` master = Enquanto na branch faz o merge com a Master
+`git merge master` = Enquanto na branch faz o merge com a Master
 
 `git config --global user.email "user@user.com"` = Configura o usuário padrão para utilizar o git no ambiente global
 
