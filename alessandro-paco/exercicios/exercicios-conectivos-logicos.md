@@ -1,9 +1,9 @@
-##Exercício 1:
+## Exercício 1:
 
 (A) "Manaus é a capital do estado da Bahia"
 
 
-##Exercício 2:
+## Exercício 2:
 
 A-) Não está Frio
 
@@ -22,7 +22,7 @@ G-) Está frio ou não está chovendo
 H-) Está frio e não está chovendo Se não está chovendo então está frio
 
 
-##Exercício 3:
+## Exercício 3:
 
 A-)P∨Q^R
 
@@ -33,7 +33,7 @@ C-)¬P^¬R
 D-)¬Q∨R^¬P
 
 
-##Exercício 4:
+## Exercício 4:
 
 A-)
 
