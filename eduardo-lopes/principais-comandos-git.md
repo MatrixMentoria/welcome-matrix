@@ -16,3 +16,5 @@ git checkout -b = Cria uma nova branch
 git checkout name = Muda para a branch selecionada (Trocar 'name')
 
 git merge master = Enquanto na branch faz o merge com a Master
+
+git log = para exibir o histórico
