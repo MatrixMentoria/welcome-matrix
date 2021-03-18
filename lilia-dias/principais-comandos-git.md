@@ -64,6 +64,6 @@ git rm FileName  //Remove o ficheiro especificado da nossa Working Tree
 
 git mv FileName //Mover ou alterar nome de um ficheiro ou directório caso desejemos
 
-git restore //Reverter tudo que ainda nao foi commit
+git restore//Reverter tudo que ainda nao foi commit
 
  -->
