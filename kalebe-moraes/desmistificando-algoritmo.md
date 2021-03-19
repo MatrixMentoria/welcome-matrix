@@ -15,4 +15,4 @@ Canal no YouTube: [tvunicarioca](https://www.youtube.com/channel/UCJBO9WgO3nCzbC
   - Linguagem Estruturadas (Pseudocódigo):  A abordagem com foco em trazer a lógica estruturada do algoritmo para uma compreensão um pouco mais próximo da linguagem dos seres humanos.
 - Apresentação da capacidade deste conjunto ordenado de ações que compõe um algoritmo em atingir diferentes níveis de complexidade buscando atender sua finalidade.
 - Haver sido ressaltado a importância da boa compreensão da estrutura do algoritmo para que se possa primar pela optimização do seu código.
-- Haver sido enfatizado sobre o direcionamento lógico que o as dependências no algoritmo influem nos diversos modos como o processamento dos dados poderá fluir em cada um dos possíveis caminhos determinados pelo código, bem como identificar cada uma de suas etapas a serem executas. 
+- Haver sido enfatizado sobre o direcionamento lógico que as dependências no algoritmo influem nos diversos modos como o processamento dos dados poderá fluir em cada um dos possíveis caminhos determinados pelo código, bem como identificar cada uma de suas etapas a serem executas. 
