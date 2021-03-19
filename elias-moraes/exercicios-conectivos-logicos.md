@@ -54,7 +54,7 @@
 **￢(P ∧ ￢R)**
 
 > d) É falso que Carlos fala inglês ou alemão mas não que fala francês <br />
-**￢(Q ∨ R) ∧  P**
+**￢(Q ∨ R ∧ ￢P)**
 
 ## 4 - Construa a tabela verdade
 a) ￢P ∧ ￢Q 
