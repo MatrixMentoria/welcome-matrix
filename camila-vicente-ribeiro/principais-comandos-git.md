@@ -24,10 +24,29 @@ git clone - clona repositorio remoto
 git branch - listar branch
 
 
-
-
 clear - limpa a tela
 
 touch" nome do arquivo".'tipo do arq' - cria arquivos
 
 code.- abre vs code
+
+
+
+Novos comandos adicionados 18/03
+
+
+git reset [commit] - Reverter do último commit
+
+git checkout [nome_branch] - Altera para o branch específico e atualizado o directório
+
+git mv [nome_arquivo_original] [nome_arquivo_renomeado] - Renomear um arquivo existente e faz commit
+
+git diff [branch_1] [branch_2] - Mostra como diferenças entre os 2 branches
+
+git config -–list »Lista de configurações do Git, se estiver dentro do repositório, lista mais itens
+
+git config -– global user.name "Meu Nome" »Definir o nome de usuário para o Git
+
+git config -–global user.email "email@dominio.com" »Definir o e-mail do usuário para o Git (tem de ser cadastrado no GitHub)
+
+git config -–global core.editor vim »Definir o editor de texto padrão para abrir automaticamente arquivos informados pelo Git
