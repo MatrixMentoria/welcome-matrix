@@ -1,5 +1,7 @@
 
-O Prof. Manuel Martins é fenomenal com uma didática ótima, com ele puder entender um pouco mais sobre a importância de estudar algoritmos.
+O Prof. Manuel Martins é fenomenal com uma didática ótima. 
+
+Com ele puder entender um pouco mais sobre a importância de estudar algoritmos.
 
 Primeiro você tem maior controle sobre o código, com mais eficiência saber o quanto de memória ele ocupa. 
 
