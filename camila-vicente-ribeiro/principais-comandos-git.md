@@ -31,6 +31,7 @@ touch" nome do arquivo".'tipo do arq' - cria arquivos
 code.- abre vs code
 
 
+
 ***Novos Comandos Adiconados 18/03***
 
 
