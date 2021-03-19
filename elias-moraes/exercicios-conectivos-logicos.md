@@ -51,7 +51,7 @@
 **(P ∧ Q) ∨ ￢(P ∧ R)**
 
 > c) É falso que Carlos fala francês mas não que fala alemão <br />
-**￢ P ∧  R**
+**￢(P ∧ ￢R)**
 
 > d) É falso que Carlos fala inglês ou alemão mas não que fala francês <br />
 **￢(Q ∨ R) ∧  P**
