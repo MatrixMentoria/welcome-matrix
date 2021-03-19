@@ -1,4 +1,4 @@
-![diagrama](https://user-images.githubusercontent.com/77807462/111836213-da897400-88ed-11eb-8100-a1f0ef3dc8d0.png)
+
 O Prof. Manuel Martins é fenomenal com uma didática ótima, com ele puder entender um pouco mais sobre a importância de estudar algoritmos.
 
 Primeiro você tem maior controle sobre o código, com mais eficiência saber o quanto de memória ele ocupa. 
@@ -11,6 +11,11 @@ Falou também sobre as estruturas de controle que são as formas possíveis de a
 
 E que só existem três formas de estruturas de controle, sequência, seleção e repetição.
 
-Foi passando também sobre a representação de algoritmos, diagrama estruturado, fluxograma e linguagem estruturada (PSEUDOCODIGO).  
+Foi passando também sobre a representação de algoritmos, diagrama estruturado, fluxograma e linguagem estruturada (PSEUDOCODIGO). 
+
+Depois foi passado alguns exercícios com diagrama estruturado.
+
+![diagrama](https://user-images.githubusercontent.com/77807462/111836318-f9880600-88ed-11eb-8f2c-70a5d17892c7.png)
+
 
 
