@@ -45,16 +45,16 @@
 ### R = Carlos fala alemão 
 
 > a) Carlos fala francês ou inglês, mas não fala alemão <br />
-**(P ∨  Q) ∧ ￢ R**
+**(P ∨ Q) ∧ ￢ R**
 
 > b) Carlos fala francês e inglês, ou não fala francês e alemão <br />
-**(P ∧  Q) ∨ ￢ (P ∧  Q)**
+**(P ∧ Q) ∨ ￢(P ∧ R)**
 
 > c) É falso que Carlos fala francês mas não que fala alemão <br />
 **￢ P ∧  R**
 
 > d) É falso que Carlos fala inglês ou alemão mas não que fala francês <br />
-**￢ (Q ∨ R) ∧  P**
+**￢(Q ∨ R) ∧  P**
 
 ## 4 - Construa a tabela verdade
 a) ￢P ∧ ￢Q 
@@ -67,7 +67,7 @@ a) ￢P ∧ ￢Q
 <br />
 b) ￢(P ∨ Q)
 
-| P 	| Q 	| P ∨ Q 	| ￢ (P ∨ Q) 	|
+| P 	| Q 	| P ∨ Q 	| ￢(P ∨ Q) 	|
 |:---:	|:---:	|:------:	|:-----------:	|
 | V 	| V 	| V    	| F         	|
 | V 	| F 	| V    	| F         	|
@@ -86,7 +86,7 @@ c) ￢P ∧ ￢Q
 <br />
 d) (P ∧ Q) ∨ ￢(P ∧ R)
 
-| P 	| Q 	| R 	| P ∧ Q 	| P ∧ R 	| ￢ (P ∧ R) 	| (P ∧ Q) V ￢ (P ∧ R) 	|
+| P 	| Q 	| R 	| P ∧ Q 	| P ∧ R 	| ￢ (P ∧ R) 	| (P ∧ Q) V ￢(P ∧ R) 	|
 |:---:	|:---:	|:---:	|:-------:	|:-------:	|:------------:	|:----------------------:	|
 | V 	| V 	| V 	| V     	| V     	| F          	| V                    	|
 | V 	| V 	| F 	| V     	| F     	| V          	| V                    	|
