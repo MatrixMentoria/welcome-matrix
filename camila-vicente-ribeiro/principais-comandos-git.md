@@ -1,4 +1,4 @@
-***Comandos Básicos Git 
+***Comandos Básicos Git ***
 
 
 git init - para criar um novo repositorio local na pasta do projeto;
