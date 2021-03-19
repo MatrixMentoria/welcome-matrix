@@ -1,12 +1,10 @@
-
-[logo](getuliogfc.github.com/welcome-matrix/getulio-figueira-camelo/img/matrix.png)
+[Imgur](https://i.imgur.com/843c50h.png)
 
 # Curso Matrix
 
 ## Módulo Nivelamento
 
 ## Matéria Git e GitHub
-
 
 Listagem de alguns dos comandos que identifiquei como sendo os fundamentais para o desempenho do meu trabalho no dia-a-dia.
 
@@ -22,8 +20,3 @@ Listagem de alguns dos comandos que identifiquei como sendo os fundamentais para
 |git pull|para obter atualizações do repositório remoto|
 |git commit -m|para adicionar uma descrição no commmit|
 |git log| para exibir o histórico|
-
-
-
-_Atualizado em 16/03/2021_
-
