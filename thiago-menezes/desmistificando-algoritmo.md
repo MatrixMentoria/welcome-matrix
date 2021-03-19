@@ -1,3 +1,4 @@
+![diagrama](https://user-images.githubusercontent.com/77807462/111836213-da897400-88ed-11eb-8100-a1f0ef3dc8d0.png)
 O Prof. Manuel Martins é fenomenal com uma didática ótima, com ele puder entender um pouco mais sobre a importância de estudar algoritmos.
 
 Primeiro você tem maior controle sobre o código, com mais eficiência saber o quanto de memória ele ocupa. 
