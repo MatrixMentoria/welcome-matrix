@@ -3,11 +3,11 @@
 
 **1 - Diga quais frases abaixo são proposições:**
 
-a) Manaus é a capital do estado da Bahia   ***CORRETA***
+a) Manaus é a capital do estado da Bahia   ***CORRETA. SENTENÇA DECLARATIVA, EXPRESSA DE FORMA AFIRMATIVA. COM VALOR LOGICO FALSO. ***
 
-b) Qual é o horário do show? ***ERRADA***
+b) Qual é o horário do show? ***ERRADA. SENTENÇA INTERROGATIVA***
 
-c) Que dia lindo! ***ERRADA***
+c) Que dia lindo! ***ERRADA. SENTENÇA EXCLAMATIVA***
 
 **2 - Dado as seguintes proposições, traduza para a linguagem corrente:**
 
