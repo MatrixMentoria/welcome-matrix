@@ -1,0 +1,51 @@
+1 - 
+a: Manaus é a capital da Bahia.
+
+2 - 
+a: Não está frio.
+b: Está frio e está chovendo.
+c: Está frio ou está chovendo.
+d: Está chovendo se e somente se está frio.
+e: Se está frio não está chovendo.
+f: Não está frio e não está chovendo.
+g: Está frio ou não está chovendo.
+h: Está frio e não está chovendo, então está frio.
+
+3 -
+a: P v Q ^ ¬R
+b: P v Q v ¬P ^ R 
+c: ¬P ^ ¬R
+d: ¬Q v R ^ ¬P
+
+4 - 
+a:
+P Q ¬P ¬Q ¬P^¬Q
+V V  F  F   F
+V F  F  V   F
+F V  V  F   F
+F F  V  V   V
+
+b:
+P Q PvQ ¬(PvQ)
+V V  V     F
+V F  V     F
+F V  V     F
+F F  F     V
+
+c:
+¬P^¬Q
+igual exercicio letra a
+
+d:
+P Q R P^Q P^R ¬P^R (P^Q)v¬(P^R)
+V V V  V   V   F    V
+V V F  V   F   V    V
+V F V  F   V   F    F
+V F F  F   F   V    V
+F V V  F   F   V    V
+F V F  F   F   V    V
+F F V  F   F   V    V
+F F F  F   F   V    V	
+
+
+
