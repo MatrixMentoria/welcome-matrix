@@ -31,11 +31,11 @@ D = ¬Q v R ^ ¬P
 4 - 
 
 A =	
-     P Q ¬P ¬Q ¬P^¬Q
-	   V V  F  F   F
-	   V F  F  V   F
-	   F V  V  F   F
-	   F F  V  V   V
+    P Q ¬P ¬Q ¬P^¬Q
+    V V  F  F   F 
+    V F  F  V   F
+    F V  V  F   F
+    F F  V  V   V
 
 B =  
      P Q PvQ ¬(PvQ)
