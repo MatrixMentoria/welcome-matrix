@@ -18,3 +18,7 @@
 
 **Merge:** git merge [novo-branch], git push origin [branch-original]
 
+**Listagem do histórico do branch actual :** git log
+
+**Mostra os arquivos alterados, ou arquivos novos que ainda não foram guardados** git status
+
