@@ -9,3 +9,5 @@ git checkout - Criar um branch localmente.
 git push - Envia modificações do repositorio local.
 git stash - Arquiva alterações realizadas por um período, "ignorando" os conflitos.
 git stash list - Retorna todas as stashes criadas.
+git add - Adiciona todos os arquivos alterados.
+git commit -m "Descrição" - commit de um arquivo descrevendo as alterações.
