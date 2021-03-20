@@ -27,7 +27,7 @@ f) ￢P ∧ ￢Q = ***É falso que está frio e não está chovendo***
 
 g) P ∨ ￢Q = ***Está frio ou não está chovendo***
 
-h) P ∧ ￢Q ⟶ P = ***Se está frio mas não está chovendo então está frio***
+h) P ∧ ￢Q ⟶ P = ***Está frio mas não está chovendo, se não esta chovendo então está frio***
 
 **3 - Dado as seguintes proposições, traduza para a linguagem simbólica:**
 
@@ -36,7 +36,7 @@ h) P ∧ ￢Q ⟶ P = ***Se está frio mas não está chovendo então está frio
 a) Carlos fala francês ou inglês, mas não fala alemão =
 ***|P ∨ Q ￢ R|***
 
-b) Carlos fala francês e inglês, ou não fala francês e alemão = ***| P ∧ Q ∨ ¬ P ∧ Q |***
+b) Carlos fala francês e inglês, ou não fala francês e alemão = ***| P ∧ Q ∨ ¬ P ∧ R |***
 
 c) É falso que Carlos fala francês mas não que fala alemão = ***| ¬ P ∧ ¬ R |***
 
