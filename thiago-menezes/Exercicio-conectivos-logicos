@@ -1,0 +1,56 @@
+1 – A Resposta da letra a e a única proposição 
+
+2 – 
+a.	￢P = NÃO ESTA FRIO. 
+
+b.	P ∧ Q = ESTÁ FRIO E ESTÁ CHOVENDO. 
+
+c.	P ∨ Q = ESTÁ FRIO OU ESTÁ CHOVENDO. 
+
+d.	Q ⟷ P = ESTÁ CHOVENDO SE E SOMENTE SE ESTÁ FRIO.
+
+e.	P ⟶ ￢Q = SE ESTIVER FRIO ENTAO NÃO ESTÁ CHOVENDO. 
+
+f.	￢P ∧ ￢Q = NÃO ESTA FRIO E NÃO ESTA CHOVENDO. 
+
+g.	P ∨ ￢Q = ESTÁ FRIO OU NÃO ESTÁ CHOVENDO. 
+
+h.	P ∧ ￢Q ⟶ P = SE ESTIVER FRIO E NÃO ESTIVER CHOVENDO ENTAO ESTÁ FRIO. 
+
+3 -
+
+A = P v Q ^ ¬R 
+
+B = P v Q v ¬P ^ R 
+
+C = ¬P ^ ¬R
+
+D = ¬Q v R ^ ¬P
+
+
+4 - 
+
+A =	
+     P Q ¬P ¬Q ¬P^¬Q
+	   V V  F  F   F
+	   V F  F  V   F
+	   F V  V  F   F
+	   F F  V  V   V
+
+B =  
+     P Q PvQ ¬(PvQ)
+     V V  V     F
+     V F  V     F
+     F V  V     F
+     F F  F     V
+
+D =   
+     P Q R P^Q P^R ¬P^R (P^Q)v¬(P^R)
+     V V V  V   V   F    V 
+     V V F  V   F   V    V
+     V F V  F   V   F    F
+     V F F  F   F   V    V 
+     F V V  F   F   V    V
+     F V F  F   F   V    V
+     F F V  F   F   V    V
+     F F F  F   F   V    V	
