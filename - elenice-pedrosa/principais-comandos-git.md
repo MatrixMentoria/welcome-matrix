@@ -40,10 +40,16 @@ Seguem alguns comandos importantes utilizados:
 
 	git branch --no-merged
 	
+
 	
 O conteúdo desse exercício está no google drive e pode ser acessivel através do link https://docs.google.com/document/d/1PPaDeL7wzb-jLWAceqKiSQCwBzD9ILY4A6Bs3dIxLuI/edit?usp=sharing
 
 Git Alias
+
+Atualização de comandos by Jonatan Machado	
+Link [Google Drive](https://docs.google.com/document/d/1PPaDeL7wzb-jLWAceqKiSQCwBzD9ILY4A6Bs3dIxLuI/edit?usp=sharing)
+## Git Alias
+ 
 git config --global alias.st status
 
 git config --global alias.lg 'log --all --graph --decorate --oneline --abbrev-commit'
