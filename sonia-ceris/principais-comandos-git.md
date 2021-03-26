@@ -19,3 +19,7 @@ git bisect good - Valida entre todos os commits, aqueles que estão correctas e 
 git bisect bad - Valida entre todos os commits, aqueles que não estão correctas e marca como “bad” 
 git commit nome.txt - Efectua o commit do ficheiro git commit nome.txt nome1.txt - Efectua o commit de mais que 1 ficheiro 
 git pull - Repor o repositório local com dados do repositório remoto
+
+#Novo Comando Adicionado
+#17/03/2021
+git merge bug-123 - Resolver merge entre os branches
