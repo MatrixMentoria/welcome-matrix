@@ -19,3 +19,4 @@ function filtrarNumerosMaioresQue50(listaCompleta) {
 
 let resultado = filtrarNumerosMaioresQue50(entrada);
 
+console.log(resultado);
