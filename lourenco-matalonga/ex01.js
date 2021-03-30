@@ -15,7 +15,7 @@ const entrada = [321, 456, 387, 279, 850, 560, 311, 842, 88, 685, 132, 101, 415,
 
 function filtrarNumerosMaioresQue50(listaCompleta) {
     //seu código aqui
-    let filtered = listaCompleta.filter(value => value > 50); //cria uma nova array com todos os valores que respeitam a implementada pela funcao
+    let filtered = listaCompleta.filter(value => value > 50); //cria uma nova array com todos os valores que respeitam a condicao implementada pela funcao
     return filtered
 }
 
