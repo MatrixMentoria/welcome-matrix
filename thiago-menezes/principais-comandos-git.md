@@ -16,3 +16,8 @@ git checkout – é principalmente usado para alterar de um brach para o outro, 
  
 git add – usamos para incluir as alterações de um arquivo em nosso commit. 
 
+git status
+
+Para exibir o estado do desenvolvimento no git e todas as informações do branch atual, usamos o git status.
+
+
