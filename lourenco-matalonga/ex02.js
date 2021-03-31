@@ -19,6 +19,8 @@ const entrada = [321, 456, 387, 279, 850, 560, 311, 842, 88, 685, 132, 101, 415,
 
 function encontrarPalavraOculta(listaCompleta) {
     //seu código aqui    
+    let filtered = listaCompleta.filter(value => typeof value != 'number');        // cria novo array com os valores que respeitam a condicao implementada pela a funcao
+    return filtered.join(''); //cria e devolve uma string ao concatenar todos os elementos sem espaco da array filtered 
 }
 
 let resultado = encontrarPalavraOculta(entrada);
