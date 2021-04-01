@@ -18,7 +18,7 @@ function filtrarNumerosMaioresQue50(listaCompleta) {
    let x = 0;
    let y = 0;
    let arrayFiltrados = [];
-         while (x < listaCompleta.length){  // enquanto x for menor que a largura da lista, a verificação dos elementos continua
+         while (x < listaCompleta.length){  // enquanto x for menor que o comprimento da lista, a verificação dos elementos continua
                  if(listaCompleta[x] > 50){
                      arrayFiltrados[y] = listaCompleta[x];   // o elemento sendo maior que 50, é armazenado no arrayFiltrados
                      y += 1;    // cria um novo espaço na memória do arrayFiltrados para adicionar proximo elemento
