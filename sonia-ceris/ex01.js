@@ -16,9 +16,9 @@ const entrada = [321, 456, 387, 279, 850, 560, 311, 842, 88, 685, 132, 101, 415,
 function filtrarNumerosMaioresQue50(listaCompleta) {
     
     let arrayEntryValues = []; //Declaração de novo array
-    for(let i = entrada.length; i >= 0 ;i --){
+    for(let i = 0; i < entrada.length; i++){
     	if(entrada[i] > 50){ // Validação de cada elemento do array
-       arrayEntryValues.unshift(entrada[i]); //Adicionar ao novo array os valores maiores que 50
+        arrayEntryValues.push(entrada[i]); //Adicionar ao novo array os valores maiores que 50
       }
     }
     return arrayEntryValues;
