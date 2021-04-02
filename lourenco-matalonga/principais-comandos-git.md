@@ -1,4 +1,4 @@
-<!-- git init  //Inicia Local Git Repositorio caso exista ou criar novo repositório local em branco.
+git init  //Inicia Local Git Repositorio caso exista ou criar novo repositório local em branco.
 
 git add . //Adiciona todos os ficheiros ao Index
 
@@ -45,4 +45,3 @@ git mv FileName //Mover ou alterar nome de um ficheiro ou directório caso desej
 
 git restore //Reverter tudo que ainda nao foi commit
 
- -->
