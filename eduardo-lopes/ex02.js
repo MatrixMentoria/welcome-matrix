@@ -24,5 +24,3 @@ function encontrarPalavraOculta(listaCompleta) {
 let resultado = encontrarPalavraOculta(entrada);
 
 console.log(resultado);
-
-return listaCompleta.filter(ele => ele.charAt).join("")
