@@ -27,8 +27,8 @@ faça seu algoritmo aceitar proposições compostas com mais do que 1 conectivo 
 */
 
 //pegar o elemento formulario do conectivo
-const logic_form = document.querySelector("INSIRA_ELEMENTO_FORM_DO_EXERCICIO");
-
+const logic_form = document.querySelector("#logic-form");
+let res = document.querySelector('#logic-result')
 //escute o evento de submissão do formulário
 logic_form.addEventListener("submit", function (e){
   const input = e.currentTarget.logic.value;
@@ -36,4 +36,39 @@ logic_form.addEventListener("submit", function (e){
   //escreva o código para avaliar a proposição e obter o resultado
 
   //atribua o resultado ao elemento "logic-result"
-})
+  
+    //your code here
+
+    let logicArray = input.split(' '); 
+
+    if(logicArray[0] == 'NOT'){
+      if(logicArray[1] == 'F'){
+        return 'V';
+      } else {
+        return 'F';
+      } 
+
+    }
+    if(logicArray[1] == 'AND'){
+      if(logicArray[0] != logicArray[2]){
+        return 'F';
+      } else if(logicArray[0] == logicArray[2]){
+        if(logicArray[0] == 'V'){
+          return 'V';
+        } else if(logicArray[0] == 'F'){
+          return 'F';
+        }
+      }
+    } 
+    if(logicArray[1] == 'OR'){
+      if(logicArray[0] != logicArray[2]){
+         return 'V';
+      } else if(logicArray[0] == logicArray[2]){
+        if(logicArray[0] == 'V'){
+          return 'V';
+        } else if(logicArray[0] == 'F'){
+          return 'F';
+        }
+    }
+  res.innerHTML = input;
+})  
