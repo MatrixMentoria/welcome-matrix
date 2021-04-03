@@ -35,16 +35,7 @@ const fibo_form = document.getElementById("fibo-form");
 
 //escute o evento de submissão do formulário
 fibo_form.addEventListener("submit", function (e){
-
-
-e.preventDefault();
-
-const input = e.currentTarget.fibo.value;
-document.getElementById("fibo-result").innerHTML = fibonacci(input);
-
-
-
-
-
-  //atribua o resultado ao elemento "fibo-result"
+	e.preventDefault();
+	const input = e.currentTarget.fibo.value;
+	document.getElementById("fibo-result").innerHTML = fibonacci(input);
 })
