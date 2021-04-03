@@ -37,8 +37,7 @@ logic_form.addEventListener("submit", function (e){
         return 'F';
       } 
 
-    }
-    if(logicArray[1] == 'AND'){
+    }else if(logicArray[1] == 'AND'){
       if(logicArray[0] != logicArray[2]){
         return 'F';
       } else if(logicArray[0] == logicArray[2]){
@@ -48,8 +47,7 @@ logic_form.addEventListener("submit", function (e){
           return 'F';
         }
       }
-    } 
-    if(logicArray[1] == 'OR'){
+    } else if(logicArray[1] == 'OR'){
       if(logicArray[0] != logicArray[2]){
          return 'V';
       } else if(logicArray[0] == logicArray[2]){
