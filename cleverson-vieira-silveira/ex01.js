@@ -15,7 +15,14 @@ const entrada = [321, 456, 387, 279, 850, 560, 311, 842, 88, 685, 132, 101, 415,
 
 function filtrarNumerosMaioresQue50(listaCompleta) {
     //seu código aqui
+ let result = [];
+ for (let val of listaCompleta) {
+    if (val < 50)continue;
+      result.push(val);
+  }
+  return result;
 }
-
 let resultado = filtrarNumerosMaioresQue50(entrada);
+//teste saida
+//console.log(resultado);
 

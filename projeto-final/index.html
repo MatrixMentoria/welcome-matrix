@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="en" class="h-100">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">    
+    <title>Desafio final - Fase de Nivelamento Projeto Matrix</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="./assets/css/bootstrap.min.css" rel="stylesheet">
+
+    <style>
+        .bd-placeholder-img {
+            font-size: 1.125rem;
+            text-anchor: middle;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            user-select: none;
+        }
+
+        @media (min-width: 768px) {
+            .bd-placeholder-img-lg {
+                font-size: 3.5rem;
+            }
+        }
+    </style>
+
+
+    <!-- Custom styles for this template -->
+    <link href="style.css" rel="stylesheet">
+</head>
+
+<body class="d-flex h-100 text-center bg-dark">
+
+    <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
+        <header class="mb-auto">
+            <div>
+                <div class="float-md-start mb-0">
+                    <img src="http://projetomatrix.com/img/logo_full.png" alt="Logo Projeto Matrix">
+                </div>
+            </div>
+        </header>
+
+        <main class="container-fluid px-3">
+            <div class="d-grid gap-3" style="grid-template-columns: 2fr 2fr;">
+                <div class="bg-light border rounded-3">
+                    <form id="expression-form" class="card p-2">
+                        <label for="expression" class="form-label">Calculadora de Expressões</label>
+                        <div class="input-group">
+                            <input type="text" id="expression" class="form-control" placeholder="3 + 2">
+                            <button type="submit" class="btn btn-primary">Calcular</button>
+                        </div>
+                    </form>
+                    <h1 id="expression-result">5</h1>
+                    <span>
+                        calculadora.js
+                    </span>
+                </div>
+                <div class="bg-light border rounded-3">
+                    <form id="logic-form" class="card p-2">
+                        <label for="logic" class="form-label">Avaliador de Proposições</label>
+                        <div class="input-group">
+                            <input type="text" id="logic" class="form-control" placeholder="NOT F">
+                            <button type="submit" class="btn btn-primary">Calcular</button>
+                        </div>
+                    </form>
+                    <h1 id="logic-result">V</h1>
+                    <span>
+                        conectivos.js
+                    </span>
+                </div>
+                <div class="bg-light border rounded-3">
+                    <form id="fibo-form" class="card p-2">
+                        <label for="fibo" class="form-label">Sequência de Fibonacci</label>
+                        <div class="input-group">
+                            <input type="text" id="fibo" class="form-control" placeholder="9">
+                            <button type="submit" class="btn btn-primary">Calcular</button>
+                        </div>
+                    </form>
+                    <h1 id="fibo-result">34</h1>
+                    <span>
+                        fibonacci.js
+                    </span>
+                </div>
+                <div class="bg-light border rounded-3">
+                    <form id="repetidos-form" class="card p-2">
+                        <label for="repetidos" class="form-label">Procura Números Repetidos</label>
+                        <div class="input-group">
+                            <input type="text" id="repetidos" class="form-control" placeholder="5">
+                            <button type="submit" class="btn btn-primary">Calcular</button>
+                        </div>
+                    </form>
+                    <span id="numeros-aleatorios">
+                        1,4,3,9,1
+                    </span>
+                    <h1 id="repetidos-result">1</h1>
+                    <span>
+                        repetidos.js
+                    </span>
+                </div>
+            </div>
+        </main>
+
+        <footer class="mt-auto text-white-50">
+            <p>Etapa final da Fase de Nivelamento do <a href="https://projetomatrix.com" class="text-white">Projeto
+                    Matrix</a>.</p>
+        </footer>
+    </div>
+
+</body>
+<!-- adicione aqui referência para o arquivo calculadora.js -->
+<!-- adicione aqui referência para o arquivo conectivos.js -->
+<!-- adicione aqui referência para o arquivo fibonacci.js -->
+<!-- adicione aqui referência para o arquivo repetidos.js -->
+
+</html>
