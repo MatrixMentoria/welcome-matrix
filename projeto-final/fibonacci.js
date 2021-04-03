@@ -24,14 +24,27 @@ BONUS:
 faça seu algoritmo ser performático ao ponto de conseguir calcular o fibonacci de 512.
 */
 
+function fibonacci(n){
+    let a=1,b=1;
+    while(--n)
+    a=b+(b=a);
+    return b;
+}
 //pegar o elemento formulario do fibonacci
-const fibo_form = document.querySelector("INSIRA_ELEMENTO_FORM_DO_EXERCICIO");
+const fibo_form = document.getElementById("fibo-form");
 
 //escute o evento de submissão do formulário
 fibo_form.addEventListener("submit", function (e){
-  const input = e.currentTarget.fibo.value;
 
-  //escreva o código para avaliar a proposição e obter o resultado
+
+e.preventDefault();
+
+const input = e.currentTarget.fibo.value;
+document.getElementById("fibo-result").innerHTML = fibonacci(input);
+
+
+
+
 
   //atribua o resultado ao elemento "fibo-result"
 })
