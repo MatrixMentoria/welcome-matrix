@@ -21,8 +21,7 @@ function fibonacci(n){
   while(--n)
   a=b+(b=a);
   return b;
-  
-}
+  }
 //pegar o elemento formulario do fibonacci
 const fibo_form = document.getElementById("fibo-form");
 
