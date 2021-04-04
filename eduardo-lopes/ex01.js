@@ -1,10 +1,7 @@
 /* 
 Projeto Matrix - Formação OutSystems - 2021.1
-
 Fase final da etapa de nivelamento.
-
 Mentor: Jonatan Machado
-
 Questão:
 Dado um array contendo somente números,
 retorne um outro array contendo apenas os valores que forem maiores que 50.
@@ -15,7 +12,7 @@ const entrada = [321, 456, 387, 279, 850, 560, 311, 842, 88, 685, 132, 101, 415,
 
 function filtrarNumerosMaioresQue50(listaCompleta) {
     //seu código aqui
+    return listaCompleta.filter(n => n > 50 ? n : null)
 }
 
 let resultado = filtrarNumerosMaioresQue50(entrada);
-
